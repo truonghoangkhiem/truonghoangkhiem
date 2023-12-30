@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @truonghoangkhiem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-truonghoangkhiem/truonghoangkhiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+NAME: Trương Hoàng Khiêm
+GENDER:	Male 👨
+LOCATION:	Ho Chi Minh City, Vietnam
+OCCUPATION:	University Student 👨‍🎓
+SCHOOL	University of Information Technology
+(UIT) - VNUHCM (11/9/23)
+MAJOR:	Computer Science 🔬
+HOBBIES: Sing, Movie	
